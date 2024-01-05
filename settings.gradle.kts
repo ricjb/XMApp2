@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "XMApp2"
 include(":app")
+include(":XMSharedLibrary")
  
